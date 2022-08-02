@@ -1,2 +1,2 @@
 # tijori
-an opensource cloud sunced passowrd manager written in rust
+an opensource cloud synced passowrd manager written in rust
